@@ -1,0 +1,49 @@
+[
+  {
+    "Title": "Example list 1",
+    "Tasks": [
+      {
+        "Content": "Example task with description\n\nThis text is incredibly important and describes the task perfectly",
+        "Done": false
+      },
+      {
+        "Content": "Example task without description",
+        "Done": false
+      }
+    ]
+  },
+  {
+    "Title": "Example list 2",
+    "Tasks": [
+      {
+        "Content": "Example task with description\n\nThis text is incredibly important and describes the task perfectly",
+        "Done": false
+      },
+      {
+        "Content": "Example task without description",
+        "Done": false
+      }
+    ]
+  },
+  {
+    "Title": "Another example",
+    "Tasks": [
+      {
+        "Content": "An example task",
+        "Done": false
+      },
+      {
+        "Content": "Another example task",
+        "Done": false
+      },
+      {
+        "Content": "A third example task",
+        "Done": false
+      },
+      {
+        "Content": "Lorem ipsum something something whateverthefuck",
+        "Done": false
+      }
+    ]
+  }
+]
