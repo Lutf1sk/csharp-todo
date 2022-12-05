@@ -15,7 +15,7 @@ public class Task
 
 	public bool Done { get; set; }
 
-	public string _content = "";
+	private string _content = "";
 
 	public Task()
 	{
